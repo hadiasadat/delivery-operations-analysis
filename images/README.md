@@ -1,3 +1,4 @@
+
 ## 📊 Key Visual Insights
 
 ### Customer Clustering: Cycle Time vs Idle Time
@@ -8,4 +9,3 @@
 
 ### Cluster Profiles (Average Features)
 ![Cluster profiles](images/cluster dei clienti.png)
-
