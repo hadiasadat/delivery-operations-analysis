@@ -1,4 +1,3 @@
-
 ## 📊 Key Visual Insights
 
 ### Customer Clustering: Cycle Time vs Idle Time
