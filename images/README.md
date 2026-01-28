@@ -1,11 +1,11 @@
-Project visualizations## 📊 Key Visual Insights
+## 📊 Key Visual Insights
 
 ### Customer Clustering: Cycle Time vs Idle Time
-![Customer clustering](images/cluster_cycle_vs_idle.png)
+![Customer clustering](images/cluster_2.png)
 
 ### Top 15 Couriers (Lowest Average Idle Time)
-![Top couriers](images/top_15_couriers_idle.png)
+![Top couriers](images/corriere.png)
 
 ### Cluster Profiles (Average Features)
-![Cluster profiles](images/cluster_profile.png)
+![Cluster profiles](images/cluster dei clienti.png)
 
