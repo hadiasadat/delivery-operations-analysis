@@ -13,6 +13,8 @@ The project is designed as a data analytics portfolio case study, focusing on re
 - Interactive visualizations (Plotly)
 <img width="1356" height="555" alt="cluster dei clienti" src="https://github.com/user-attachments/assets/4e2781ad-1a7d-48bb-a6eb-76e8a7022c98" />
 <img width="1357" height="555" alt="cluster 2" src="https://github.com/user-attachments/assets/30cc1c0b-4d72-4318-9831-6e9aa954309e" />
+<img width="1358" height="562" alt="corriere " src="https://github.com/user-attachments/assets/1bb99ab1-0da7-40f1-8bc3-54d4f34334e1" />
+
 
 
 ## Tools
