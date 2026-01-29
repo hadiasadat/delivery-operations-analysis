@@ -12,6 +12,8 @@ The project is designed as a data analytics portfolio case study, focusing on re
 - Geographic and hub-level insights
 - Interactive visualizations (Plotly)
 <img width="1356" height="555" alt="cluster dei clienti" src="https://github.com/user-attachments/assets/4e2781ad-1a7d-48bb-a6eb-76e8a7022c98" />
+<img width="1357" height="555" alt="cluster 2" src="https://github.com/user-attachments/assets/30cc1c0b-4d72-4318-9831-6e9aa954309e" />
+
 
 ## Tools
 Python · Pandas · NumPy · Scikit-learn · Plotly · Matplotlib
