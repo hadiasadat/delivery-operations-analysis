@@ -9,9 +9,13 @@ The analysis focuses on delivery missions to identify operational inefficiencies
 Key Topics
 
 Courier performance and operational efficiency analysis
+
 Customer clustering using KMeans
+
 Idle time, cycle time, and mission timeline analysis
+
 Geographic and hub-level insights
+
 Interactive visualizations using Plotly
 
 <img width="1356" height="555" alt="cluster dei clienti" src="https://github.com/user-attachments/assets/4e2781ad-1a7d-48bb-a6eb-76e8a7022c98" />
